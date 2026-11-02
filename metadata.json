@@ -1,0 +1,7 @@
+{
+  "name": "EasySpend Tracker",
+  "description": "Effortlessly track daily expenses and manage your remaining cash with this simple, clean, and intuitive personal finance tool.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
